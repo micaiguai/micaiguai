@@ -1,8 +1,8 @@
 # Introduce
-Hello, i'm micaiguai!
+Hello, I'm micaiguai!
 
 ## About me
-[me](https://micaiguai.github.io/me)
+[Me](https://micaiguai.github.io/me)
 
 ## Tools
 [Mix Icon](https://micaiguai.github.io/mix-icon)
