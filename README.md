@@ -16,7 +16,7 @@ Hello, I'm micaiguai!
 ·
 [Vue 3 Autocomplete](https://marketplace.visualstudio.com/items?itemName=micaiguai.vscode-vue-autocomplete)
 ·
-<img style="width: 12px" src="https://raw.githubusercontent.com/micaiguai/vscode-vue-3-snippets/refs/heads/main/res/icon.png" />
+<img style="width: 16px" src="https://raw.githubusercontent.com/micaiguai/vscode-vue-3-snippets/refs/heads/main/res/icon.png" />
 [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=micaiguai.vscode-vue-3-snippets)
 ·
 [Code Block](https://marketplace.visualstudio.com/items?itemName=micaiguai.code-block-mcg)
