@@ -18,4 +18,4 @@ Hello, i'm micaiguai!
 ·
 [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=micaiguai.vscode-vue-3-snippets)
 ·
-[Code Block](https://marketplace.visualstudio.com/items?itemName=micaiguai.vscode-vue-3-snippets)
+[Code Block](https://marketplace.visualstudio.com/items?itemName=micaiguai.code-block-mcg)
